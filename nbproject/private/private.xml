@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/UI/AdminHomePage.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/UI/DigitalVotingForm.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/UI/PropertyRegistrationForm.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/UI/AdminDigitalVotesScreen.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/UI/ResidentLoginScreen.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/UI/PropertyRequestsScreen.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/UI/RecreationFacilityForm.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/UI/ManageInstitutionForm.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/UI/PublicServiceRequestsScreen.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/UI/BusinessLicenseForm.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/UI/InfrastructureMaintenanceForm.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/UI/PublicServiceRequestForm.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/UI/UserTypeScreen.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/UI/SignupScreen.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/DomainEntity/CrimeOrIncident.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/UI/ManageHealthCareForm.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/Database/DatabaseConnection.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/UI/HomeScreen.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/DomainEntity/Admin.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/DomainEntity/Institution.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/DomainEntity/Bill.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/UI/UtilityBillForm.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/UI/ResidentHomePage.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/DomainEntity/Resident.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/DomainEntity/HealthcareUnit.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/UI/PublicFeedbackForm.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/BusinessLogic/BusinessLogicLayer.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/DomainEntity/RecreationFacility.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/UI/ResidentSignupScreen.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/DomainEntity/Property.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/DomainEntity/Feedback.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/UI/ReportCrimeOrTrafficIncidentForm.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/UI/Main.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/DomainEntity/PublicService.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/UI/AdminSignupScreen.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/DomainEntity/DigitalVote.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/UI/ViewPublicFeedbackScreen.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/UI/ViewBusinessLicenseRequestsScreen.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/DomainEntity/BusinessLicense.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/DomainEntity/Maintenance.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/UI/ViewCrimeOrIncidentReportsScreen.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/UI/AdminLoginScreen.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/UI/ViewAllResidentsScreen.java</file>
+            <file>file:/C:/Users/Hammad/Documents/NetBeansProjects/SDA_Project/src/UI/RecreationRequestsScreen.java</file>
+        </group>
+    </open-files>
+</project-private>
